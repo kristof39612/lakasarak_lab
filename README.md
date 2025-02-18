@@ -12,6 +12,7 @@
 ### Dataset
 - [TESZT](dataset/ingatlan.com_testing_final.csv)
 - [TRAINING](dataset/ingatlan.com_training_final.csv)
+- [FULL](dataset/ingatlan.com_full_final.csv)
 
 ### Elemző notebookok
 - [Fő elemző](main.ipynb)
