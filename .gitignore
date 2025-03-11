@@ -174,3 +174,5 @@ cython_debug/
 .pypirc
 .venv/
 .venv/*
+finalized_for_train.csv
+finalized_for_vis.csv
