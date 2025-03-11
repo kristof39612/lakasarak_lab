@@ -14,8 +14,10 @@
 - [TRAINING](dataset/ingatlan.com_training_final.csv)
 - [FULL](dataset/ingatlan.com_full_final.csv)
 
-### Elemző notebookok
+### Jupyter notebookok
 - [Fő elemző](main.ipynb)
+- [Tanító](training.ipynb)
+- [Vizualizációs](visualization.ipynb)
 
 ## Dataset forrás
 https://www.kaggle.com/c/me-ingatlan-com/data
