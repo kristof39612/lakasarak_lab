@@ -4,3 +4,4 @@ scikit-learn
 pandas
 ipykernel
 ipywidgets
+ydata-profiling
