@@ -5,3 +5,5 @@ pandas
 ipykernel
 ipywidgets
 ydata-profiling
+hvplot
+roman
