@@ -7,3 +7,4 @@ ipywidgets
 ydata-profiling
 hvplot
 roman
+xgboost
