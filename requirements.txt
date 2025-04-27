@@ -8,3 +8,4 @@ ydata-profiling
 hvplot
 roman
 xgboost
+flask
