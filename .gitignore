@@ -8,7 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-build/
+#build/
 develop-eggs/
 dist/
 downloads/
@@ -177,3 +177,4 @@ cython_debug/
 finalized_for_train.csv
 finalized_for_vis.csv
 N3EEWB_2024_03_19_Handout_PGM_Structure_Learning_class.ipynb
+*.pkl
