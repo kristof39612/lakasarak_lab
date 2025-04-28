@@ -9,3 +9,4 @@ hvplot
 roman
 xgboost
 flask
+pyngrok

@@ -7,6 +7,13 @@ from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import GradientBoostingRegressor
 from xgboost import XGBRegressor
 import joblib
+from pyngrok import ngrok
+
+AUTH_TOKEN = os.environ.get("GROK_AUTH_TOKEN","")
+
+ngrok.set_auth_token(AUTH_TOKEN)
+public_url = ngrok.connect(5000)
+print(public_url)
 
 app = Flask(__name__, static_folder="./frontend/build", static_url_path="")
 
