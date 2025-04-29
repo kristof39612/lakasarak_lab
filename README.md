@@ -7,6 +7,9 @@
 - Szladek Máté Nándor - TGPZTT
 - Tóth Ádám László - TK6NT3
 
+## Dokumentáció
+- [Lakasarak_Dokumentacio (PDF)](Lakasarak_Dokumentacio.pdf)
+
 ## Adatelemzés és forráskódok
 
 ### Dataset
